@@ -4,12 +4,7 @@
 ZCZC W00 30 L01 SCELE related (Fill OS242 Google Form, Set Forum Notification, fill the POPQUIZ W00)
 ZCZC W00 100 L02 Monday's OS Class
 ZCZC W00 30 L06 Read the Slides Document reviewing after the class
-ZCZC W00 5 L11 Assignment #01 (Set Up Repository for OS242)
-ZCZC W00 10 L12 Assignment #02 (Create "TXT/mylog.txt")
-ZCZC W00 5 L13 Assignment #03 (Create my GitHub Page)
-ZCZC W00 5 L14 Assignment #04 (Make sure for the course registration)
-ZCZC W00 30 L15 Assignment #05 (Reading Assignment)
-ZCZC W00 5 L16 Assignment #06 (Revisit "TXT/mylog.txt")
+ZCZC W00 60 L10 Assignment #00 (Finishing the weekly assignment for W00)
 ZCZC W00 100 L02 Wednesday's OS Class
 ZCZC W00 30 L05 Installed SEB and tried out dummy quiz
 ZCZC W00 30 L08 OS Chat related with AsDos asking about dummy quiz that can't be access at the first time and fixing the problem
