@@ -1,10 +1,17 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
-# LogCode: https://doit.vlsm.org/ETC/logCodes.txt
-ZCZC W00 20 L00 General, etc.
-ZCZC W00 20 L01 SCELE/Discord related
-ZCZC W00 99 L02 CLASSROOM/ZOOM meetings related
-ZCZC W00 10 L03 GitHub related
-ZCZC W00 10 L04 GitHub Pages related
-ZCZC W00 10 L05 QUIZ
-ZCZC W00 60 L09 Weekly Assignments
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00 30 L01 SCELE related (Fill OS242 Google Form, Set Forum Notification, fill the POPQUIZ W00)
+ZCZC W00 100 L02 Monday's OS Class
+ZCZC W00 30 L06 Read the Slides Document reviewing after the class
+ZCZC W00 5 L11 Assignment #01 (Set Up Repository for OS242)
+ZCZC W00 10 L12 Assignment #02 (Create "TXT/mylog.txt")
+ZCZC W00 5 L13 Assignment #03 (Create my GitHub Page)
+ZCZC W00 5 L14 Assignment #04 (Make sure for the course registration)
+ZCZC W00 30 L15 Assignment #05 (Reading Assignment)
+ZCZC W00 5 L16 Assignment #06 (Revisit "TXT/mylog.txt")
+ZCZC W00 100 L02 Wednesday's OS Class
+ZCZC W00 30 L05 Installed SEB and tried out dummy quiz
+ZCZC W00 30 L08 OS Chat related with AsDos asking about dummy quiz that can't be access at the first time and fixing the problem
+ZCZC W00 60 L05 Studied and Prepared for weekly quiz
+ZCZC W00 10 L05 QUIZ W00
