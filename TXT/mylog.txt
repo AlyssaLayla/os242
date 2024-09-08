@@ -1,9 +1,16 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-
 ZCZC W01 100 L02 Monday's OS Class
 ZCZC W01 100 L02 Wednesday's OS Class
+ZCZC W01 270 L11 Assignment Week 01
+ZCZC W01 60 L05 Studied and Prepared for weekly quiz
+ZCZC W01 30 L05 QUIZ W01
+ZCZC W01 30 L09 POP QUIZ W01
+ZCZC W01 60 L09 Reading Assignment (The ATM Way: GSGS and Read)
+ZCZC W01 15 L03 GitHub related
+ZCZC W01 15 L04 GitHub Pages related
+ZCZC W01 20 L09 Finishing up assignmentZCZC W01 100 L02 Monday's OS Class
 ZCZC W00 30 L01 SCELE related (Fill OS242 Google Form, Set Forum Notification, fill the POPQUIZ W00)
 ZCZC W00 100 L02 Monday's OS Class
 ZCZC W00 30 L06 Read the Slides Document reviewing after the class
