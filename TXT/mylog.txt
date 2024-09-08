@@ -1,7 +1,9 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+
 ZCZC W01 100 L02 Monday's OS Class
+ZCZC W01 100 L02 Wednesday's OS Class
 ZCZC W00 30 L01 SCELE related (Fill OS242 Google Form, Set Forum Notification, fill the POPQUIZ W00)
 ZCZC W00 100 L02 Monday's OS Class
 ZCZC W00 30 L06 Read the Slides Document reviewing after the class
