@@ -1,6 +1,9 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W02 100 L02 Monday's OS Class
+ZCZC W02 100 L02 Wednesday's OS Class
+ZCZC W02 120 L12 Assignment Week 02
 ZCZC W01 100 L02 Monday's OS Class
 ZCZC W01 100 L02 Wednesday's OS Class
 ZCZC W01 270 L11 Assignment Week 01
