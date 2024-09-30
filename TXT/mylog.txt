@@ -1,6 +1,19 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W04 100 L02 Wednesday's Synchronous OS Class
+ZCZC W04 100 L02 Monday's Asynchronous OS Class
+ZCZC W04 150 L14 Assignment Week 04
+ZCZC W04 60 L05 Studied and Prepared for weekly quiz
+ZCZC W04 20 L05 Weekly Quiz
+ZCZC W04 60 L09 Reading Assignment
+ZCZC W04 15 L07 Demo Related
+ZCZC W04 10 L43 TXT/myrank.txt related
+ZCZC W04 20 L41 TXT/mylog.txt related
+ZCZC W04 25 L08 OS Chat related with friend
+ZCZC W04 20 L01 SCELE related
+ZCZC W04 60 L09 POPQUIZ W04
+ZCZC W04 10 L26 GnuPG, key-gen, encrypt/decrypt
 ZCZC W03 100 L02 Wednesday's OS Class
 ZCZC W03 100 L02 Monday's OS Class
 ZCZC W03 45 L62 Backup Virtual Debian Guest
