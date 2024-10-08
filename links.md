@@ -13,3 +13,5 @@ permalink: LINKS/
 6. [UUIDs in Linux](https://www.simplified.guide/linux/disk-uuid-get): This is link about How to get disk and partition UUIDs in Linux
 7. [Write a Makefile to compile a simple C program](https://stackoverflow.com/questions/21548464/how-to-write-a-makefile-to-compile-a-simple-c-program): This is the link from stack overflow that talks about Makefile that will be used to compile a C program
 8. [Tar in Linux](https://linuxhint.com/tar-folder-linux/): This is the link about basic commands for Tape Archive (tar) in Linux
+9. [https://www.geeksforgeeks.org/virtual-memory-in-operating-system/](Virtual Memory in Operating System): This is the link about What is Virtual Memory in Operating System
+10. [https://www.youtube.com/watch?v=PfCuzUH7ypY](Virtual Memory Allocation Algorithms): This is video about How Does Memory Allocation Work
