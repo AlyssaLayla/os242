@@ -15,3 +15,5 @@ permalink: LINKS/
 8. [Tar in Linux](https://linuxhint.com/tar-folder-linux/): This is the link about basic commands for Tape Archive (tar) in Linux
 9.  [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/): This is the link about What is Virtual Memory in Operating System
 10. [Virtual Memory Allocation Algorithms](https://www.youtube.com/watch?v=PfCuzUH7ypY): This is video about How Does Memory Allocation Work
+11. [Docusaurus Video](https://youtu.be/Yhyx7otSksg?si=pcTcZO36qE-3LwI7): This is video about Docusaurus in general
+12. [malloc()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/): This is link for more information about Malloc
