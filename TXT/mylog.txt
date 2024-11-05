@@ -1,6 +1,16 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W07 100 L02 Wednesday's Synchronous OS Class
+ZCZC W07 100 L02 Monday's Synchronous OS Class
+ZCZC W07 150 L17 Assignment Week 07
+ZCZC W07 75 L09 POPQUIZ W06
+ZCZC W07 60 L05 Studied and Prepared for weekly quiz
+ZCZC W07 20 L05 Weekly Quiz
+ZCZC W07 60 L09 Reading Assignment
+ZCZC W07 20 L41 TXT/mylog.txt relatedd
+ZCZC W07 15 L07 Demo Related
+ZCZC W07 15 L43 TXT/myrank.txt related
 ZCZC W06 100 L02 Monday's Synchronous OS Class
 ZCZC W06 100 L16 Assignment Week 06
 ZCZC W06 200 L09 POPQUIZ W06
