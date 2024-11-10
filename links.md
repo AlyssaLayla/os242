@@ -19,3 +19,5 @@ permalink: LINKS/
 12. [malloc()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/): This is link for more information about Malloc
 13. [Deadlock and Starvation](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/): This is link for know more about Deadlock VS Starvation is OS
 14. [Semaphore](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/): This is link about Semaphore in process Synchronization
+15. [Scheduling](https://www.geeksforgeeks.org/process-schedulers-in-operating-system/): This is link about process schedulers in Operating System
+16. [Linux From Scratch](https://www.linuxfromscratch.org/): This is link to know more about LFS
